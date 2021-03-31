@@ -1,7 +1,7 @@
 site: Journal Jekyll Theme
 
 url: https://bprg-doi.github.io/
-baseurl: /intro-reading
+baseurl: https://bprg-doi.github.io/intro-reading
 
 collections:
   pages:
